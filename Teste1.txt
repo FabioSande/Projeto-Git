@@ -6,3 +6,5 @@ public class ExameDirecao {
         int nota = in.nextInt();
 
         System.out.print("Digite sua idade.");
+
+*/Linha comentando para fazer novo commit e criar uma nova versão*/
