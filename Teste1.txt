@@ -1,0 +1,8 @@
+import java.util.Scanner;
+public class ExameDirecao {
+    public static void main(String[] args) {
+        Scanner in = new Scanner(System.in);
+        int dataNasc = in.nextInt();
+        int nota = in.nextInt();
+
+        System.out.print("Digite sua idade.");
